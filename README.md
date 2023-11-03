@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/suyash4github](https://github.com/suyash4github)
 
-- 📫 How to reach me **sarlimar4@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
