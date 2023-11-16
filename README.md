@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suyash Arlimar</h1>
+<h1 align="center">I'm Suyash Arlimar</h1>
 <h3 align="center">A passionate Data Science Student</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/suyash4github](https://github.com/suyash4github)
